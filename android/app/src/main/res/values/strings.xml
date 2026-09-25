@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eraser</string>
+    
+    <!-- VPN Service -->
+    <string name="vpn_service_name">Eraser Protection</string>
+    <string name="vpn_notification_title">Protection Active</string>
+    <string name="vpn_notification_text">Eraser is protecting you from adult content</string>
+    
+    <!-- Onboarding -->
+    <string name="onboarding_welcome_title">Welcome to Eraser</string>
+    <string name="onboarding_welcome_description">Your personal digital wellness companion</string>
+    
+    <!-- Home Screen -->
+    <string name="home_day_label">DAY</string>
+    <string name="home_streak_label">day streak</string>
+    <string name="home_protection_active">Protection Active</string>
+    <string name="home_protection_inactive">Protection Inactive</string>
+    
+    <!-- Common -->
+    <string name="button_continue">Continue</string>
+    <string name="button_skip">Skip</string>
+    <string name="button_get_started">Get Started</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+</resources>
+
